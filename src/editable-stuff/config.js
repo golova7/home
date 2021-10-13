@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Carlo",
   middleName: "",
-  lastName: "Shoaib",
+  lastName: "Reynaga",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/golova7",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/golova7",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/golova7/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/golova7/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/golova7/",
     },
   ],
 };
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "golova7", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -100,14 +100,16 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
+    { name: "React", value: 85 },
+    { name: "Vue", value: 85 },
+    { name: "Node", value: 75 },
+    { name: "Laravel", value: 65 },
     { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "JavaScript", value: 90 },
+    { name: "PHP", value: 60 },
+    { name: "Android", value: 75 },
+    { name: "Java", value: 70 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -126,8 +128,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "carloreynaga.c@gmail.com",
 };
 
 const experiences = {
