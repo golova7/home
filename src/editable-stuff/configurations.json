@@ -2,27 +2,27 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Carlo",
   "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "LastName": "Reynaga",
+  "devDesc": "| Programmer | Web Developer | Mobile App Developer",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/golova7",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
+      "url": "https://www.facebook.com/carlo.reynaga",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashir.shoaeb/",
+      "url": "https://www.instagram.com/carlo.reynaga",
       "style": "socialicons"
     },
     {
@@ -35,12 +35,12 @@
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "carloreynaga",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDescription"A senior full stack developer from Lima, Peru, I have 7+ years experience in web, mobile and full stack development. I’m currently looking to develop my skills as as full stack developer.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "golova7",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
