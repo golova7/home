@@ -19,7 +19,7 @@
 [![GitHub license](https://img.shields.io/github/license/golova7/home?style=for-the-badge)](https://github.com/golova7/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/golova7?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/golova7)
 
-[![Site preview](/public/site.jpg)](https://golova7.github.io/home)
+[![Site preview](/public/site.JPG)](https://golova7.github.io/home)
 
 ## Table of Contents
 
